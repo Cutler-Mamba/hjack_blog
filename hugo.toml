@@ -1,4 +1,4 @@
 baseURL = 'https://blog.hjack.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Take it easy'
 theme = "ananke"
